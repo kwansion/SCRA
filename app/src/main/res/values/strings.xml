@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">register</string>
+    <string name="title_activity_main2"></string>
+    <string name="action_settings">History</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="complaint_type">Choose a complaint type</string>
+
+    <string-array name="complaint_arrays">
+        <item>Damaged (default)</item>
+        <item>Unattended garbage</item>
+        <item>Crime</item>
+        <item>Not Functional</item>
+        <item>Accident</item>
+    </string-array>
+
+    <!-- Text in Activity Main -->
+
+    <string name="title1">BIGDEX SmartCity Platform</string>
+    <string name="title2">Smart Citizen Report Application</string>
+
+
+    <string name="capture_button">Capture Image</string>
+    <string name="complaint_text">Complaint Type:</string>
+    <string name="show_time">Time: </string>
+    <string name="your_location">Location: </string>
+    <string name="complaint_desc">Description:</string>
+    <string name="complaint_desc_hint">write your complaint here…</string>
+    <string name="location">location</string>
+    <string name="upload_button">Submit</string>
+
+
+    <string name="welcome">Welcome!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signUpQuestion">Don\'t have an account?</string>
+    <string name="login">Login</string>
+</resources>
